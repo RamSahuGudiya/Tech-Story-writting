@@ -1,32 +1,6 @@
-69
 
-586
-
-Cover image for Explaining Kubernetes To My Uber Driver
-Jessica Wang
-Jessica Wang
-Posted on 13 Nov
-
-
-379
-
-41
-
-30
-
-30
-
-37
 Explaining Kubernetes To My Uber Driver
-#
-kubernetes
-#
-beginners
-#
-architecture
-#
-devops
-Image description
+
 
 A week ago, I attended Kubecon 2023 in Chicago. I read a few blogs and attended some 101 tutorials at the conference, but still didn’t have a good understanding of the technology. The worst part was the last day of the conference - I ordered an Uber to bring me back to my hotel. My driver asked me “What’s the convention about?” to which I responded “It’s about Kubernetes", but after some explaining, it was clear I had no idea what I was talking about.
 
@@ -37,6 +11,3 @@ Me: Imagine you’re a chef at a busy restaurant kitchen. You’ve got a team of
 
 Image description
 
-Driver: Got it.
-
-Me: In this scenario, the head chef is Kubernetes. Just like that head chef needs to manage all the different chefs in the kitchen, Kubernetes helps manage all the different pieces needed to run your software. The official definition of Kubernetes is a “container-orchestration tool”, but since the word “container” is pretty abstract here, you can substitute the word “container” for “chef”. So Kubernetes would be a "chef orchestration tool". That way, you can form a picture in your head of your kitchen every time you hear the word
