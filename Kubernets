@@ -30,3 +30,7 @@ but since the word “container” is pretty abstract here, you can substitute t
 So Kubernetes would be a "chef orchestration tool".
 That way, you can form a picture in your head of your kitchen every time you hear the word.
 
+Driver: Okay, makes sense so far. But what are these containers? I can't keep imagining them as chefs forever.
+
+Me: Yeah good point. So now that you have a picture in your head of your Kubernetes kitchen,
+let’s dive into how all the different kitchen roles map to Kubernetes concepts, going from smallest to largest.
