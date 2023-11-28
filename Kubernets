@@ -42,3 +42,11 @@ or a MongoDB database container to store data (this sentence is more for the eng
 I wouldn’t say this to my Uber driver 😛). In the kitchen,
 imagine you’re serving soup and a salad for your appetizer. The soup would be your container. 
 The salad would also be its own container.
+
+I know this definition seems a bit arbitrary right now,
+but it’ll make more sense once I explain it in the context of the upcoming components.
+
+Pod
+In the kitchen, a pod would be the plate/tray that holds your soup and salad.
+In Kubernetes, a pod is something that can hold 1 or more containers. 
+The reason for this is that containers within a pod can communicate with each other.
