@@ -34,3 +34,11 @@ Driver: Okay, makes sense so far. But what are these containers? I can't keep im
 
 Me: Yeah good point. So now that you have a picture in your head of your Kubernetes kitchen,
 let’s dive into how all the different kitchen roles map to Kubernetes concepts, going from smallest to largest.
+
+Container
+The smallest part of this puzzle is the container, and it’s basically any piece of software.
+For example, it could be a Node.js web server that hosts a web application, 
+or a MongoDB database container to store data (this sentence is more for the engineers reading this blog,
+I wouldn’t say this to my Uber driver 😛). In the kitchen,
+imagine you’re serving soup and a salad for your appetizer. The soup would be your container. 
+The salad would also be its own container.
