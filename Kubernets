@@ -50,3 +50,12 @@ Pod
 In the kitchen, a pod would be the plate/tray that holds your soup and salad.
 In Kubernetes, a pod is something that can hold 1 or more containers. 
 The reason for this is that containers within a pod can communicate with each other.
+
+For the engineers: as an example, imagine I have a container for a web server and a container for a database in my pod. 
+They can communicate with each other over localhost.
+
+As for an appropriate analogy with the kitchen, I can’t really think of anything. 
+Imagine some Sausage Party shenanigans where your anthropomorphized soup and salad start chatting to each other. 
+But the soup and salad from the appetizer plate can’t talk to the steak and potatoes on the dinner plate
+because they are on different plates (aka, different pods don’t share the same network namespace
+and therefore can’t communicate with each other.)
