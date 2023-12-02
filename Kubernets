@@ -59,3 +59,19 @@ Imagine some Sausage Party shenanigans where your anthropomorphized soup and sal
 But the soup and salad from the appetizer plate can’t talk to the steak and potatoes on the dinner plate
 because they are on different plates (aka, different pods don’t share the same network namespace
 and therefore can’t communicate with each other.)
+
+Master Node
+The head chef who manages and oversees the entire kitchen. 
+This is that concept of “container orchestration” or “chef orchestration” we talked about earlier. 
+Some real life examples of the orchestration work that this master node would do would be:
+
+Scaling, aka adjusting up or down the number of running pods based on CPU utilization. In a busy kitchen, 
+when there’s a surge in customer demand, chefs may need to scale up their operations by preparing more servings of a dish.
+By the way, one thing to note in this visualization - you’re probably imagining the kitchen hiring in new chefs,
+but I want you to imagine it more like the current chefs are getting cloned. When scaling happens, 
+pods are essentially being copied.
+
+Automated deployment, aka defining your application’s dependencies & runtime instructions in a YAML file
+so it can deploy based off this configuration. In a kitchen, 
+this YAML file is analogous to a written recipe that tells the chef how to make the dish
+to ensure consistency and efficiency and preparing it.
