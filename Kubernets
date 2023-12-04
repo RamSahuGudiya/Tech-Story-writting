@@ -75,3 +75,8 @@ Automated deployment, aka defining your application’s dependencies & runtime i
 so it can deploy based off this configuration. In a kitchen, 
 this YAML file is analogous to a written recipe that tells the chef how to make the dish
 to ensure consistency and efficiency and preparing it.
+
+Load balancing, aka distributing network traffic across different pods.
+In kitchen, load balancing involved assigning tasks to different chefs at a cooking station.
+Maybe Bob at the dessert station is overloaded with requests to scoop ice cream, 
+so the master chef clones Bob and has Bob 2.0 take some of the ice cream orders off Bob 1.0’s hands.
