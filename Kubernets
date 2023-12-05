@@ -80,3 +80,10 @@ Load balancing, aka distributing network traffic across different pods.
 In kitchen, load balancing involved assigning tasks to different chefs at a cooking station.
 Maybe Bob at the dessert station is overloaded with requests to scoop ice cream, 
 so the master chef clones Bob and has Bob 2.0 take some of the ice cream orders off Bob 1.0’s hands.
+
+Also important to note: each worker node has something called a "kubelet".
+In the kitchen scenario, "kubelet" would be analogous to the chef at each table.
+The chef has a bunch of jobs, like making sure the trays of food are being assembled correctly, helping prep ingredients, and throwing away the scraps.
+Similarly, "kubelet" does things like ensuring containers within pods are running, helps with initializing pods (e.g. have necessary dependencies installed),
+help with garbage collection,
+and more.
