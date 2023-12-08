@@ -1,0 +1,13 @@
+Side-Effect happens, whenEver we change/mutate some data that is located outside of the current function
+
+    //Function with side-Effect
+Ex:
+    
+    let name = 'ram';
+
+    function SideEffect(){
+    name = 'sahu';
+    }
+
+    SideEffect();
+    console.log(name)  //sahu
