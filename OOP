@@ -1,0 +1,7 @@
+
+Object-oriented programming (OOP) is a programming paradigm/style that relies on the concept of classes and objects.
+It is used to structure a software program into simple, reusable pieces of code 
+using classes, which are used to create individual instances.
+
+The main aim of OOP is to bind the data and the functions together
+so that no other part of the code can access that data except that function (wrapped with data).
