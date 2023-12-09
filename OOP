@@ -16,4 +16,16 @@ OBJECT:
 
 An object is an instance of a class,
 The object has a state and behaviour that is defined by the class 
-and we can create many objects of the same class(with different property values). 
+and we can create many objects of the same class(with different state/data). 
+
+ENCAPSULATION:
+
+Encapsulation means bundling the data and method within a single unit(class) then we can keep properties and methods private 
+inside the class, so they can't be accessible from outside the class. 
+some methods can be exposed as a public interface and provide a well-defined interface for interaction.
+
+Why encapsulation?
+This helps to protect the data and method from outside interference(it restricts direct access to them).
+
+
+ABSTRACTION: 
