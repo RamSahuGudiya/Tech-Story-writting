@@ -1,9 +1,0 @@
-class:
-
-A class is a blueprint that defines the structure and behaviour of objects because it consists data members and member functions which can then accessed/used by the instance(object of that class)
-
-
-
-object :
-An object is an instance of a class,
-Object has a state and behaviour that is defined by the class and we can create many objects of the same class(with diffn property values). 
