@@ -29,3 +29,15 @@ This helps to protect the data and method from outside interference(it restricts
 
 
 ABSTRACTION: 
+
+Abstraction is the process of displaying necessary information and hiding the internal details of an application from the user
+The application only shows the high-level of abstraction and ignores low-level of abstraction.
+
+INHERITANCE:
+
+Inheritance is when one class inherits/derives the attributes and methods of another class.
+The class whose properties and methods are inherited is known as the Parent class. 
+The class that inherits the properties from the parent class is the Child class.
+Note: we use inheritance for code reusability.
+
+POLYMORPHISM:
