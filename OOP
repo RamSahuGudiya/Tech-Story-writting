@@ -1,3 +1,4 @@
+OOP:
 
 Object-oriented programming (OOP) is a programming paradigm/style that relies on the concept of classes and objects.
 It is used to structure a software program into simple, reusable pieces of code 
@@ -5,3 +6,14 @@ using classes, which are used to create individual instances.
 
 The main aim of OOP is to bind the data and the functions together
 so that no other part of the code can access that data except that function (wrapped with data).
+
+CLASS:
+
+A class is a blueprint that defines the structure and behaviour of objects because it consists data members and member functions 
+which can then be accessed/used by the instance(object of that class)
+
+OBJECT:
+
+An object is an instance of a class,
+The object has a state and behaviour that is defined by the class 
+and we can create many objects of the same class(with different property values). 
