@@ -87,3 +87,9 @@ The chef has a bunch of jobs, like making sure the trays of food are being assem
 Similarly, "kubelet" does things like ensuring containers within pods are running, helps with initializing pods (e.g. have necessary dependencies installed),
 help with garbage collection,
 and more.
+
+Some extra context for the engineers: Kubelet is an open-source,
+executable binary (aka file with machine code instructions that a CPU can directly execute),
+written in Go programming language.
+
+
