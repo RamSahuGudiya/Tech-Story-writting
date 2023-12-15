@@ -92,4 +92,7 @@ Some extra context for the engineers: Kubelet is an open-source,
 executable binary (aka file with machine code instructions that a CPU can directly execute),
 written in Go programming language.
 
+Let's stop here for a second. If you understand everything I've said up to this point, 
+you understand the basics of Kubernetes architecture! If you don't want to rely on the kitchen imagery forever, 
+I've replaced all the kitchen drawings with only Kubernetes terminology in the diagram below.
 
