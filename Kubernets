@@ -96,3 +96,9 @@ Let's stop here for a second. If you understand everything I've said up to this 
 you understand the basics of Kubernetes architecture! If you don't want to rely on the kitchen imagery forever, 
 I've replaced all the kitchen drawings with only Kubernetes terminology in the diagram below.
 
+Driver: Actually, all of this makes a lot of sense. So I get what Kubernetes is.
+But I still don't get why it's useful. Like what's the point of having it or learning about it?
+
+Me: Yep, the last part of the puzzle is understanding how Kubernetes is used.
+How do humans interact with Kubernetes? How is Kubernetes relevant/useful in the world of technology? 
+Let's lean back on our kitchen analogy for a second to explain some more concepts.
