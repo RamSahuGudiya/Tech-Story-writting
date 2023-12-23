@@ -102,3 +102,20 @@ But I still don't get why it's useful. Like what's the point of having it or lea
 Me: Yep, the last part of the puzzle is understanding how Kubernetes is used.
 How do humans interact with Kubernetes? How is Kubernetes relevant/useful in the world of technology? 
 Let's lean back on our kitchen analogy for a second to explain some more concepts.
+
+The owner of the restaurant/franchise is analogous to the software developers that are building out an app or service. 
+At McDonalds, the franchise owner (Let's say their name is Francis Cockadoodledoo) 
+wants get information on how much money each McDonalds location is making,
+and have the ability to fire/hire employees as needed. 
+To do this, Francis Cockadoodledoo may pick up their phone and call the master chef to get information and give orders. 
+In Kubernetes, software engineers can't really pick up a phone to interact with their Kubernetes cluster, 
+but the “master node” has an API server that you can call, and this allows you access all tasks. For example,
+engineers can get information on all the pods, nodes, services, understand the health and metrics information, 
+and have the ability to delete or create resources.
+
+The customers eating at the restaurant is analogous to the users of an app or service.
+Similar to how the Mcdonalds kitchen produces Big Macs for me to eat, 
+the Spotify Kubernetes cluster is providing me the service of listening to a large selection of music from a web browser.
+
+I've factored this new information into the drawing I've included below. 
+What you'll see is actually very similar to the diagrams you'll see when you google "Kubernetes architecture".
