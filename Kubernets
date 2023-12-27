@@ -119,3 +119,8 @@ the Spotify Kubernetes cluster is providing me the service of listening to a lar
 
 I've factored this new information into the drawing I've included below. 
 What you'll see is actually very similar to the diagrams you'll see when you google "Kubernetes architecture".
+
+And of course, I realize there are some abstractions I left out of my explanation because 
+I felt like they were not important in forming a basic mental model of Kubernetes. Feel free to dig in more. 
+As I dig in more myself,
+I may add to this blog with some links to resources I find useful.
