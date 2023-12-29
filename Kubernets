@@ -124,3 +124,7 @@ And of course, I realize there are some abstractions I left out of my explanatio
 I felt like they were not important in forming a basic mental model of Kubernetes. Feel free to dig in more. 
 As I dig in more myself,
 I may add to this blog with some links to resources I find useful.
+
+Conclusion
+The reason why I picked this mode of storytelling (describing tech through the lens of a conversation with an Uber driver) 
+is because I wanted to break down Kubernetes into something that was universally understandable and felt approachable.
