@@ -15,7 +15,8 @@ Facepalm. So, in an attempt to redeem myself, here’s my reimagined conversatio
 
 Start of Conversation
 Me: Imagine you’re a chef at a busy restaurant kitchen. 
-You’ve got a team of chefs working for you, and each one is preparing a different part of the meal - one group for appetizers, 
+You’ve got a team of chefs working for you, and each one is preparing a different part of the meal - one group
+for appetizers, 
 one for main courses, and another for desserts.
 Coordinating these chefs to make sure the meal is served to the customer on time is your job.
 You have a picture in your head?
@@ -83,8 +84,10 @@ so the master chef clones Bob and has Bob 2.0 take some of the ice cream orders 
 
 Also important to note: each worker node has something called a "kubelet".
 In the kitchen scenario, "kubelet" would be analogous to the chef at each table.
-The chef has a bunch of jobs, like making sure the trays of food are being assembled correctly, helping prep ingredients, and throwing away the scraps.
-Similarly, "kubelet" does things like ensuring containers within pods are running, helps with initializing pods (e.g. have necessary dependencies installed),
+The chef has a bunch of jobs, like making sure the trays of food are being assembled correctly, helping prep ingredients, 
+and throwing away the scraps.
+Similarly, "kubelet" does things like ensuring containers within pods are running, helps with initializing pods 
+(e.g. have necessary dependencies installed),
 help with garbage collection,
 and more.
 
