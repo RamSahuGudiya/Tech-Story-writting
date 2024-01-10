@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<header>
+
+  <head lang="en">
+    <title></title>
+  </head>
+
+  <body>
+    <header></header>
+    <section>
+      <table rules="all" style=" border:solid">
+        <tr>
+          <th>Name</th>
+          <th>Phone</th>
+        <tr>
+        <tr>
+          <td>Ram</td>
+          <td>7780280427</td>
+        <tr>
+        <tr>
+          <td>Raj</td>
+          <td>8937839738</td>
+        <tr>
+      </table>
+    </section>
+    <footer></footer>
+  </body>
+
+  </html>
