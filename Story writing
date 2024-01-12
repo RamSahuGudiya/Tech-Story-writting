@@ -27,7 +27,11 @@ Get started
 See what others are saying
 1
 Know your users
-The first and most important principle of web application design is to know your users and their needs, goals, preferences, and behaviors. You should conduct user research, surveys, interviews, and testing to understand who your target audience is, what problems they are trying to solve, how they use your web application, and what feedback they have. This will help you create user personas, user stories, and user scenarios that will inform your design decisions and ensure that your web application meets the expectations and requirements of your users.
+The first and most important principle of web application design is to know your users and their needs, goals, 
+preferences, and behaviors. You should conduct user research, surveys, interviews, and testing to understand who
+your target audience is, what problems they are trying to solve, how they use your web application, and what feedback 
+they have. This will help you create user personas, user stories, and user scenarios that will inform your design
+decisions and ensure that your web application meets the expectations and requirements of your users.
 This is where invited experts will be adding contributions.
 
 Experts are selected based on on their experience and skills.
@@ -36,7 +40,12 @@ Learn more about how members become contributors.
 
 2
 Keep it simple
-The second principle of web application design is to keep it simple and avoid unnecessary complexity and clutter. You should focus on the core functionality and features of your web application and eliminate anything that is not essential or relevant. You should also use clear and consistent navigation, layout, typography, color, icons, and images that make your web application easy to understand and use. You should follow the principle of progressive disclosure, which means that you only show the information and options that are needed at each step and reveal more details as the user progresses. This will help you reduce cognitive load, confusion, and errors for your users.
+The second principle of web application design is to keep it simple and avoid unnecessary complexity and clutter. 
+You should focus on the core functionality and features of your web application and eliminate anything that is not 
+essential or relevant. You should also use clear and consistent navigation, layout, typography, color, icons, and
+images that make your web application easy to understand and use. You should follow the principle of progressive
+disclosure, which means that you only show the information and options that are needed at each step and reveal more
+details as the user progresses. This will help you reduce cognitive load, confusion, and errors for your users.
 This is where invited experts will be adding contributions.
 
 Experts are selected based on on their experience and skills.
@@ -45,7 +54,13 @@ Learn more about how members become contributors.
 
 3
 Make it responsive
-The third principle of web application design is to make it responsive and adaptable to different devices, screen sizes, orientations, and resolutions. You should use a fluid grid system, flexible images, and media queries to ensure that your web application adjusts to the available space and provides an optimal viewing and interaction experience for your users. You should also consider the touch-friendliness, readability, accessibility, and performance of your web application on different devices and browsers. You should test your web application on various scenarios and devices and use tools like Google's Mobile-Friendly Test to check its responsiveness.
+The third principle of web application design is to make it responsive and adaptable to different devices, 
+screen sizes, orientations, and resolutions. You should use a fluid grid system, flexible images, and media 
+queries to ensure that your web application adjusts to the available space and provides an optimal viewing
+and interaction experience for your users. You should also consider the touch-friendliness, readability, 
+accessibility, and performance of your web application on different devices and browsers. You should test
+your web application on various scenarios and devices and use tools like Google's Mobile-Friendly Test to 
+check its responsiveness.
 This is where invited experts will be adding contributions.
 
 Experts are selected based on on their experience and skills.
@@ -54,7 +69,13 @@ Learn more about how members become contributors.
 
 4
 Follow web standards
-The fourth principle of web application design is to follow web standards and best practices that ensure the quality, compatibility, and security of your web application. You should use valid and semantic HTML, CSS, and JavaScript code that follows the guidelines and recommendations of the World Wide Web Consortium (W3C) and other authoritative sources. You should also use web frameworks and libraries that are reliable, well-documented, and widely supported. You should also implement web security measures like HTTPS, encryption, authentication, authorization, and validation to protect your web application and your users from malicious attacks and data breaches.
+The fourth principle of web application design is to follow web standards and best practices that ensure 
+the quality, compatibility, and security of your web application. You should use valid and semantic HTML,
+CSS, and JavaScript code that follows the guidelines and recommendations of the World Wide Web Consortium
+(W3C) and other authoritative sources. You should also use web frameworks and libraries that are reliable,
+well-documented, and widely supported. You should also implement web security measures like HTTPS, encryption
+, authentication, authorization, and validation to protect your web application and your users from malicious
+attacks and data breaches.
 This is where invited experts will be adding contributions.
 
 Experts are selected based on on their experience and skills.
@@ -63,7 +84,13 @@ Learn more about how members become contributors.
 
 5
 Optimize performance
-The fifth principle of web application design is to optimize performance and speed of your web application. You should minimize the loading time, bandwidth usage, and resource consumption of your web application by using techniques like compression, caching, minification, and lazy loading. You should also use tools like Google's PageSpeed Insights and Lighthouse to measure and improve the performance of your web application. You should also monitor and analyze the performance of your web application using tools like Google Analytics, New Relic, or Sentry. You should also collect and act on user feedback and suggestions to enhance the performance of your web application.
+The fifth principle of web application design is to optimize performance and speed of your web application.
+You should minimize the loading time, bandwidth usage, and resource consumption of your web application by
+using techniques like compression, caching, minification, and lazy loading. You should also use tools like
+Google's PageSpeed Insights and Lighthouse to measure and improve the performance of your web application. 
+You should also monitor and analyze the performance of your web application using tools like Google Analytics,
+New Relic, or Sentry. You should also collect and act on user feedback and suggestions to enhance the performance 
+of your web application.
 This is where invited experts will be adding contributions.
 
 Experts are selected based on on their experience and skills.
@@ -72,7 +99,13 @@ Learn more about how members become contributors.
 
 6
 Iterate and improve
-The sixth and final principle of web application design is to iterate and improve your web application based on user feedback, testing, and data. You should adopt an agile and user-centered approach to web application development that allows you to test, learn, and refine your web application in short cycles and with frequent user involvement. You should also use tools like Google Optimize, Optimizely, or A/B Tasty to conduct experiments and test different versions of your web application. You should also use tools like Hotjar, UserTesting, or UsabilityHub to collect and analyze user feedback and behavior. You should also use tools like Google's Search Console, Moz, or SEMrush to optimize the SEO of your web application.
+The sixth and final principle of web application design is to iterate and improve your web application
+based on user feedback, testing, and data. You should adopt an agile and user-centered approach to web 
+application development that allows you to test, learn, and refine your web application in short cycles
+and with frequent user involvement. You should also use tools like Google Optimize, Optimizely, or A/B 
+Tasty to conduct experiments and test different versions of your web application. You should also use 
+tools like Hotjar, UserTesting, or UsabilityHub to collect and analyze user feedback and behavior. You 
+should also use tools like Google's Search Console, Moz, or SEMrush to optimize the SEO of your web application.
 This is where invited experts will be adding contributions.
 
 Experts are selected based on on their experience and skills.
@@ -81,4 +114,5 @@ Learn more about how members become contributors.
 
 7
 Here’s what else to consider
-This is a space to share examples, stories, or insights that don’t fit into any of the previous sections. What else would you like to add?
+This is a space to share examples, stories, or insights that don’t fit into any of the previous
+sections. What else would you like to add?
