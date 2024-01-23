@@ -1,0 +1,16 @@
+
+HTTP stands for Hypertext Transfer Protocol. It is an application layer protocol used for transmitting hypermedia documents, such as HTML. HTTP defines how messages are formatted and transmitted, and how web servers and browsers should respond to various commands.
+
+Key features of HTTP include:
+
+Statelessness: Each request from a client to a server is independent, and the server does not store any information about the client's state between requests. This allows for better scalability and simplicity.
+
+Connectionless: HTTP uses a connectionless model, which means that a connection is established, the request is made, and then the connection is closed. This simplicity makes it suitable for the World Wide Web.
+
+Text-Based: HTTP messages are primarily text-based, making them human-readable. This characteristic is useful for debugging and understanding the communication between clients and servers.
+
+Client-Server Architecture: HTTP follows a client-server model where clients (such as web browsers) request resources or services, and servers provide those resources or services in response to client requests.
+
+Request-Response Model: Communication in HTTP is based on a request-response model. Clients send requests to servers, and servers respond with the requested information or an error message.
+
+HTTP is the foundation of data communication on the World Wide Web. When you type a URL into your web browser or click on a link, your browser sends an HTTP request to the server hosting the desired resource, and the server responds with the corresponding information, allowing you to view web pages, images, videos, and other content.
