@@ -22,6 +22,4 @@ policy for another without modifying the client.
 Instead of directly implementing a single algorithm, the code receives runtime instructions specifying which of the group
 of algorithms to run.
 
-Observer:
-This pattern is a one-to-many dependency between objects so that when one object changes state, all its dependents 
-are notified. This is typically done by calling one of their methods.
+
